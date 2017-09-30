@@ -1,2 +1,10 @@
-# react-prototype-template
-react-prototype-template
+Prototype template for React app
+===================
+
+----------
+
+Includes
+-------------
+
+ - webpack > v.3
+ - react > v.16
